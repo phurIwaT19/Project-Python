@@ -2,6 +2,6 @@
 
 def main():
     """TEST"""
-    print(test)
+    print(test) # Output >>> test
 
 main()
